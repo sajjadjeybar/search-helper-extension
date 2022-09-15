@@ -1,0 +1,11 @@
+{
+    "name": "search",
+    "version": "1.0.0",
+    "description": "search in medium",
+    "manifest_version": 3,
+    "author": "",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "search in medium"
+    }
+}
